@@ -1,0 +1,5 @@
+package com.standout.sopang.admin.helpdesk.controller;
+
+public class HelpDeskController {
+
+}

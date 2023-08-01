@@ -1,0 +1,15 @@
+package com.standout.sopang.admin.helpdesk.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("/Desk")
+public class HelpDeskController {
+
+	@RequestMapping("/test")
+	void board() {
+		System.out.println("¿À³ª?");
+	}
+
+}
